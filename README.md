@@ -3,8 +3,8 @@
 Mình hiện đang là sinh viên chuyên ngành Kỹ thuật phần mềm tại Đại học FPT. Mình có niềm đam mê lớn với việc phát triển các ứng dụng web tối ưu và nghiên cứu, tích hợp các hệ thống IoT. Mình luôn sẵn sàng học hỏi và đang tìm kiếm cơ hội thực tập để áp dụng kiến thức vào các bài toán thực tế.
 
 #### 🛠️ Kỹ năng công nghệ (Tech Stack)
-* **Ngôn ngữ lập trình:** Java, SQL, C/C++ (cho vi điều khiển)
-* **Web Development:** JSP, Servlets
+* **Ngôn ngữ lập trình:** Java, SQL, C/C++, CSS 
+* **Web Development:** JSP, Servlets, HTML
 * **Cơ sở dữ liệu:** SQL Server
 * **IoT & Phần cứng:** Arduino Uno, ESP8266, các module cảm biến
 * **Công cụ:** Git, GitHub
